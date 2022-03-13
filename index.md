@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+# 阅读笔记
 
-You can use the [editor on GitHub](https://github.com/AuF7qwq/Clips/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 3月7日
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-------
 
-### Markdown
+## 词语的含义题
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. <u>浅层</u> 词的本义+ **褒词贬用**/**贬词褒用**
+2. <u>深层</u> 结合文章内容 + **情感**
 
-```markdown
-Syntax highlighted code block
+## 句子/标题含义题
 
-# Header 1
-## Header 2
-### Header 3
+1. 找到有深层含义的关键词
+2. 分析该句子/标题的含义
+3. 把整个句子剩下的部分和浅层深层含义连接起来
 
-- Bulleted
-- List
+### 如何分析句子/标题含义
 
-1. Numbered
-2. List
+1. <u>浅层</u> 结合文章内容分析
+2. <u>深层</u> 根据情感主旨,找**象征义**, **引申义**, **比喻义**
 
-**Bold** and _Italic_ and `Code` text
+## 环境描写作用题
 
-[Link](url) and ![Image](src)
-```
+1. 这是...的描写
+2. 交代了故事发生的*时间*、*地点*、*时代背景*
+3. 渲染...的氛围
+4. 烘托了...情感
+5. 推动故事情节发展
+6. 为下文...做铺垫
+7. 深化文章中心主旨
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 分析写作顺序
 
-### Jekyll Themes
+### 插叙
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AuF7qwq/Clips/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. 写了...内容 补充交代了…(**原因\背景**)
+2. 使故事情节更加完整，文章内容更详实。
+3. 表现人物...的特点,使人物形象更突出
+4. 突出...的中心
+5. 为下文...内容作铺垫/与....照应
 
-### Support or Contact
+## 段落作用题
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 题型
+
+1. 作者这样安排有什么意图?
+2. 第几段可以去掉吗?
+
+### 方法
+
+**内容上**(包括**感情**)+**结构上**
+
+| 内容上      | 感情                  |               结构上 |
+| -------- | ------------------- | ----------------: |
+| 写出了...内容 | 表现了人物...性格  表达...主题 | 开头：总领全文、引出下文、开篇点题 |
+
+​													中间：承上启下、铺垫、伏笔、照应
+
+​											结尾：首尾呼应、总结全文、点明中心、深化主旨等
+
+### 2月28日
+
+---
+
+## 概括文章主要内容
+
+### 答题技巧
+
+1. 必须包含2个要素:**人物** + **事情**
+2. 其他要素[时间(季节,年代), 地点, 环境(*如果有特殊意义*)]
+
+写清楚什么**时间** 什么**地点** 什么**人物** 做了什么**事情**
+
+### 答题格式
+
+1. 时间 地点有特殊意义 **人 + 时间 + 地点 + 事 + 结果**
+2. 概括多件事 **人 + 事 + 结果**
+3. 概括全文 一件事 一本书 **人 + 情形 + 事 + 结果**
+
+*eg. 概括西游记:师徒四人经历九九八十一难去西天取经，最后取得真经.*
+
+## 小说中的主题/主旨
+
+1. 从情节入手 *人与人之间的相互关心 帮助*
+2. 从人物入手 (**身份 地位 经历 教养**)
+3. 从时代入手 *战争时期*
+4. 从标题入手 *点名主要事件:"粮食"*
